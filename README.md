@@ -1,4 +1,4 @@
-🎨 Skittles Color Sorting Device
+**🎨 Skittles Color Sorting Device**
 
 <br/>
 
@@ -72,8 +72,7 @@ __🧠 How It Works__
 
 7. System resets for the next cycle
 
-
-
+<br/>
 
 __📊 Performance Metrics__
 
@@ -88,8 +87,7 @@ __📊 Performance Metrics__
 | Battery Life             | **~9 hours**           |
 | Total Cost               | **$58.47**             |
 
-
-
+<br/>
 
 __🧩 CAD & Manufacturing__
 
@@ -101,8 +99,7 @@ __🧩 CAD & Manufacturing__
 
 - Optimized geometry for Skittle dimensions
 
-
-
+<br/>
 
 __🧠 Lessons Learned__
 
