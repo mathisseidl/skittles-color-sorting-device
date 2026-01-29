@@ -1,7 +1,5 @@
 🎨 Skittles Color Sorting Device
 
-
-
 <br/>
 __📌 Overview__
 
