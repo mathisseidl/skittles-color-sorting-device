@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<br/>
 __📌 Overview__
 
 This project is a **low-cost, portable, and accessible** candy color sorting device designed to automatically sort Skittles into five colors: **Red, Yellow, Green, Orange, and Purple**.
