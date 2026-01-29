@@ -1,10 +1,14 @@
 🎨 Skittles Color Sorting Device
 
 
+
+
 __📌 Overview__
 
 This project is a **low-cost, portable, and accessible** candy color sorting device designed to automatically sort Skittles into five colors: **Red, Yellow, Green, Orange, and Purple**.
 A key design goal was **accessibility**, the device can be used by **color-blind and visually impaired users**, featuring **engraved labels and Braille markings** for each output compartment.
+
+
 
 
 __🚀 Key Features:__
@@ -20,9 +24,12 @@ __🚀 Key Features:__
 - 🔋 Fully portable (battery-powered)
 
 - 🧩 Modular & serviceable (17 custom 3D-printed parts)
+
+
   
 
 __🛠️ System Architecture__
+
 
 __Mechanical Design__
 
@@ -42,6 +49,7 @@ __Mechanical Design__
 
   - 9V battery + buck converter (Arduino)
 
+
 __Mechanical Design__
 
 - Wooden base for lightweight structure and laser engraving
@@ -51,6 +59,8 @@ __Mechanical Design__
 - Five individual storage compartments
 
 - 17 custom 3D-printed parts (PLA)
+
+
 
 
 __🧠 How It Works__
@@ -68,6 +78,8 @@ __🧠 How It Works__
 7. System resets for the next cycle
 
 
+
+
 __📊 Performance Metrics__
 
 
@@ -82,6 +94,8 @@ __📊 Performance Metrics__
 | Total Cost               | **$58.47**             |
 
 
+
+
 __🧩 CAD & Manufacturing__
 
 - Designed for easy assembly and maintenance
@@ -93,6 +107,8 @@ __🧩 CAD & Manufacturing__
 - Optimized geometry for Skittle dimensions
 
 
+
+
 __🧠 Lessons Learned__
 
 - Servo motors provided far better reliability than stepper motors
@@ -102,16 +118,4 @@ __🧠 Lessons Learned__
 - Real user testing is critical for intuitive interaction
 
 
-📦 skittles- color-sorting-device
-├── 📂 code
-│   └── arduino_color_sorter.ino
-├── 📂 CAD
-│   ├── STL_files/
-│   └── assembly/
-├── 📂 electronics
-│   └── wiring_diagram.pdf
-├── 📂 documentation
-│   └── EK210_Final_Report.pdf
-├── 📂 images
-│   └── final_device.jpg
-└── README.md
+
