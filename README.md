@@ -9,11 +9,27 @@ A key design goal was **accessibility**, the device can be used by **color-blind
 
 <br/>
 
+  __How It Works__
+
+1. Candy is dropped into the funnel
+
+2. A rotating disc moves the Skittle to the sensing position
+
+3. The TCS3200 sensor takes multiple RGB readings
+
+4. Next, the rotating disc aligns the Skittle with the ramp opening
+   
+6. A servo-controlled ramp guides the candy into the correct bin
+
+7. System resets for the next cycle
+
+<br/>
+
 __Key Features:__
 
 - Sorts 5 colors (Red, Yellow, Green, Orange, Purple)
 
-- 99% accuracy across 100 trials
+- 100% accuracy across 100 trials
 
 - Fast operation (~3 seconds per Skittle)
 
@@ -74,7 +90,7 @@ __Performance Metrics__
 
 | Metric                   | Result                 |
 | ------------------------ | ---------------------- |
-| Sorting Accuracy         | **99%**                |
+| Sorting Accuracy         | **100%**               |
 | Color Detection Accuracy | **100% (sensor)**      |
 | Avg. Sorting Time        | **2.99 s**             |
 | Device Weight            | **1.26 kg**            |
@@ -93,18 +109,3 @@ __Lessons Learned__
 - Real user testing is critical for intuitive interaction
 
 <br/>
-
-  __How It Works__
-
-1. Candy is dropped into the funnel
-
-2. A rotating disc moves the Skittle to the sensing position
-
-3. The TCS3200 sensor takes multiple RGB readings
-
-4. The rotating disc aligns the Skittle with the ramp opening
-   
-6. A servo-controlled ramp guides the candy into the correct bin
-
-7. System resets for the next cycle
-
