@@ -11,7 +11,7 @@ A key design goal was **accessibility**, the device can be used by **color-blind
 
   __How It Works__
 
-1. Candy is dropped into the funnel
+1. Skittles are dropped into the funnel
 
 2. A rotating disc moves the Skittle to the sensing position
 
